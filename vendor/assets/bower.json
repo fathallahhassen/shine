@@ -1,0 +1,11 @@
+{
+  "name": "dsl-generated-dependencies",
+  "dependencies": {
+    "bootstrap-sass-official": "latest",
+    "angular": "~rake bower:install> 1.5",
+    "angular-route": "~rake bower:install> 1.5"
+  },
+  "resolutions": {
+    "angular": "1.5"
+  }
+}
